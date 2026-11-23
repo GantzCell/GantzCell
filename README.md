@@ -1,11 +1,11 @@
 # GantzCell
 
-## Projekte
+## Projects
 
-- **Google TV** — Eigener Launcher und Setup für den Fernseher.
-- **Denkraum** — Selbst gehostete App für Dashboard, To-dos und Notizen.
-- **MediaSuite** — Medienverwaltung, Plex-Tools und Watchlists.
-- **Videoschnitt** — Automatischer Videoschnitt mit Untertiteln.
-- **Wohnung in 3D** — Wohnung in Blender nachgebaut, um Einrichtung zu planen.
+- **Google TV** — Custom launcher and setup for my TV.
+- **Denkraum** — Self-hosted app for a dashboard, to-dos and notes.
+- **MediaSuite** — Media management, Plex tools and watchlists.
+- **Video Editing** — Automated video editing with subtitles.
+- **Apartment in 3D** — My apartment rebuilt in Blender to plan the interior.
 
-Alle Projekte sind **privat**.
+All projects are **private**.
